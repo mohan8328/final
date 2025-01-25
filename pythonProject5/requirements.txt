@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+transformers
+requests
+torch # Ensure that PyTorch is installed, or replace it with TensorFlow if necessary
